@@ -3,7 +3,7 @@ name = "sattler"
 version = "0.1.0"
 description = "A simple data extractor"
 authors = ["Robert Ulmer <robert.ulmer@frontexperts.com>"]
-license = "GPLv3"
+license = "gpl-3.0.md"
 readme = "README.md"
 packages = [ {include = "sattler"} ]
 
