@@ -8,8 +8,8 @@ class GrStatImport:
     """Implement GrStatImport functionality."""
 
     EXTRACT_KEYS = {
-        "FAB_M3": 6,
-        "EAB_M3": 6,
+        "FAB_M3": 8,
+        "EAB_M3": 8,
     }
 
     def __init__(self, gr_stat_file_path):

@@ -6,4 +6,5 @@ etree
 getitem
 getroot
 linesep
+nonlocal
 sattler

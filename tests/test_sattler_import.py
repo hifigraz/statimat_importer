@@ -23,8 +23,8 @@ def test_import() -> None:
     for key in test_import:
         assert key in ["FAB_M3", "EAB_M3"]
     assert len(test_import) == 2
-    assert test_import["FAB_M3"] == "1581.169"
-    assert test_import["EAB_M3"] == "21.35958"
+    assert test_import["FAB_M3"] == "5.551117"
+    assert test_import["EAB_M3"] == "4.536075"
 
 
 def test_export() -> None:
