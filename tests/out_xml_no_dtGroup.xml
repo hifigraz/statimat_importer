@@ -1,0 +1,843 @@
+<?xml version="1.0" standalone="yes"?>
+<dataSetGroup>
+  <dtPackageInfo>
+    <refNo>6632</refNo>
+    <packNo>1</packNo>
+    <packLD>597.3019</packLD>
+    <packLabel>1</packLabel>
+    <packStatus>0</packStatus>
+  </dtPackageInfo>
+  <dtPackageInfo>
+    <refNo>6632</refNo>
+    <packNo>2</packNo>
+    <packLD>604.6032</packLD>
+    <packLabel>2</packLabel>
+    <packStatus>0</packStatus>
+  </dtPackageInfo>
+  <dtPackageInfo>
+    <refNo>6632</refNo>
+    <packNo>3</packNo>
+    <packLD>615.1016</packLD>
+    <packLabel>3</packLabel>
+    <packStatus>0</packStatus>
+  </dtPackageInfo>
+  <dtPackageInfo>
+    <refNo>6632</refNo>
+    <packNo>4</packNo>
+    <packLD>601.7015</packLD>
+    <packLabel>4</packLabel>
+    <packStatus>0</packStatus>
+  </dtPackageInfo>
+  <dtPackageInfo>
+    <refNo>6632</refNo>
+    <packNo>5</packNo>
+    <packLD>608.5032</packLD>
+    <packLabel>5</packLabel>
+    <packStatus>-1</packStatus>
+  </dtPackageInfo>
+  <dtStatistics>
+    <refNo>6632</refNo>
+    <packNo>1</packNo>
+    <key>LD</key>
+    <methNo>3</methNo>
+    <method>CountTest</method>
+    <nV>1</nV>
+    <X>59.73019</X>
+    <XClimit xml:space="preserve"> </XClimit>
+    <Xlimit xml:space="preserve"> </Xlimit>
+    <Min>59.73019</Min>
+    <Max>59.73019</Max>
+    <S>0</S>
+    <Slimit xml:space="preserve"> </Slimit>
+    <V>0</V>
+    <Vlimit xml:space="preserve"> </Vlimit>
+    <Q>0</Q>
+    <Qlimit xml:space="preserve"> </Qlimit>
+    <R>0</R>
+    <Sum>59.7301902770996</Sum>
+    <Sum2>3567.69563053852</Sum2>
+    <grpIndex>6474</grpIndex>
+  </dtStatistics>
+  <dtStatistics>
+    <refNo>6632</refNo>
+    <packNo>1</packNo>
+    <key>EAB</key>
+    <methNo>4</methNo>
+    <method>TensileTest</method>
+    <nV>3</nV>
+    <X>21.71803</X>
+    <XClimit xml:space="preserve"> </XClimit>
+    <Xlimit xml:space="preserve"> </Xlimit>
+    <Min>21.06772</Min>
+    <Max>22.58716</Max>
+    <S>0.7830099</S>
+    <Slimit xml:space="preserve"> </Slimit>
+    <V>3.605345</V>
+    <Vlimit xml:space="preserve"> </Vlimit>
+    <Q>1.945261</Q>
+    <Qlimit xml:space="preserve"> </Qlimit>
+    <R>1.51944</R>
+    <Sum>65.1541004180908</Sum>
+    <Sum2>1416.24510133343</Sum2>
+    <grpIndex>6474</grpIndex>
+  </dtStatistics>
+  <dtStatistics>
+    <refNo>6632</refNo>
+    <packNo>1</packNo>
+    <key>FAB</key>
+    <methNo>4</methNo>
+    <method>TensileTest</method>
+    <nV>3</nV>
+    <X>1614.594</X>
+    <XClimit xml:space="preserve"> </XClimit>
+    <Xlimit xml:space="preserve"> </Xlimit>
+    <Min>1581.52</Min>
+    <Max>1656.695</Max>
+    <S>38.39043</S>
+    <Slimit xml:space="preserve"> </Slimit>
+    <V>2.377713</V>
+    <Vlimit xml:space="preserve"> </Vlimit>
+    <Q>95.3748</Q>
+    <Qlimit xml:space="preserve"> </Qlimit>
+    <R>75.17493</R>
+    <Sum>4843.78295898438</Sum>
+    <Sum2>7823692.29791072</Sum2>
+    <grpIndex>6474</grpIndex>
+  </dtStatistics>
+  <dtStatistics>
+    <refNo>6632</refNo>
+    <packNo>1</packNo>
+    <key>WTB</key>
+    <methNo>4</methNo>
+    <method>TensileTest</method>
+    <nV>3</nV>
+    <X>9762.986</X>
+    <XClimit xml:space="preserve"> </XClimit>
+    <Xlimit xml:space="preserve"> </Xlimit>
+    <Min>9458.113</Min>
+    <Max>10335.57</Max>
+    <S>496.2203</S>
+    <Slimit xml:space="preserve"> </Slimit>
+    <V>5.082669</V>
+    <Vlimit xml:space="preserve"> </Vlimit>
+    <Q>1232.779</Q>
+    <Qlimit xml:space="preserve"> </Qlimit>
+    <R>877.457</R>
+    <Sum>29288.958984375</Sum>
+    <Sum2>286440175.269398</Sum2>
+    <grpIndex>6474</grpIndex>
+  </dtStatistics>
+  <dtStatistics>
+    <refNo>6632</refNo>
+    <packNo>1</packNo>
+    <key>TEN</key>
+    <methNo>4</methNo>
+    <method>TensileTest</method>
+    <nV>3</nV>
+    <X>27.03146</X>
+    <XClimit xml:space="preserve"> </XClimit>
+    <Xlimit xml:space="preserve"> </Xlimit>
+    <Min>26.47773</Min>
+    <Max>27.73631</Max>
+    <S>0.6427755</S>
+    <Slimit xml:space="preserve"> </Slimit>
+    <V>2.377879</V>
+    <Vlimit xml:space="preserve"> </Vlimit>
+    <Q>1.596872</Q>
+    <Qlimit xml:space="preserve"> </Qlimit>
+    <R>1.258581</R>
+    <Sum>81.0943813323975</Sum>
+    <Sum2>2192.92583031988</Sum2>
+    <grpIndex>6474</grpIndex>
+  </dtStatistics>
+  <dtStatistics>
+    <refNo>6632</refNo>
+    <packNo>1</packNo>
+    <key>TTB</key>
+    <methNo>4</methNo>
+    <method>TensileTest</method>
+    <nV>3</nV>
+    <X>3.242337</X>
+    <XClimit xml:space="preserve"> </XClimit>
+    <Xlimit xml:space="preserve"> </Xlimit>
+    <Min>3.147798</Min>
+    <Max>3.370222</Max>
+    <S>0.1148985</S>
+    <Slimit xml:space="preserve"> </Slimit>
+    <V>3.543693</V>
+    <Vlimit xml:space="preserve"> </Vlimit>
+    <Q>0.2854467</Q>
+    <Qlimit xml:space="preserve"> </Qlimit>
+    <R>0.222424</R>
+    <Sum>9.72701215744019</Sum>
+    <Sum2>31.564659266651</Sum2>
+    <grpIndex>6474</grpIndex>
+  </dtStatistics>
+  <dtStatistics>
+    <refNo>6632</refNo>
+    <packNo>1</packNo>
+    <key>TAB</key>
+    <methNo>4</methNo>
+    <method>TensileTest</method>
+    <nV>3</nV>
+    <X>3.284532</X>
+    <XClimit xml:space="preserve"> </XClimit>
+    <Xlimit xml:space="preserve"> </Xlimit>
+    <Min>3.179381</Min>
+    <Max>3.479083</Max>
+    <S>0.1686686</S>
+    <Slimit xml:space="preserve"> </Slimit>
+    <V>5.135239</V>
+    <Vlimit xml:space="preserve"> </Vlimit>
+    <Q>0.4190298</Q>
+    <Qlimit xml:space="preserve"> </Qlimit>
+    <R>0.2997019</R>
+    <Sum>9.85359668731689</Sum>
+    <Sum2>32.4213548563274</Sum2>
+    <grpIndex>6474</grpIndex>
+  </dtStatistics>
+  <dtStatistics>
+    <refNo>6632</refNo>
+    <packNo>2</packNo>
+    <key>LD</key>
+    <methNo>3</methNo>
+    <method>CountTest</method>
+    <nV>1</nV>
+    <X>60.46032</X>
+    <XClimit xml:space="preserve"> </XClimit>
+    <Xlimit xml:space="preserve"> </Xlimit>
+    <Min>60.46032</Min>
+    <Max>60.46032</Max>
+    <S>0</S>
+    <Slimit xml:space="preserve"> </Slimit>
+    <V>0</V>
+    <Vlimit xml:space="preserve"> </Vlimit>
+    <Q>0</Q>
+    <Qlimit xml:space="preserve"> </Qlimit>
+    <R>0</R>
+    <Sum>60.4603233337402</Sum>
+    <Sum2>3655.45069762041</Sum2>
+    <grpIndex>6474</grpIndex>
+  </dtStatistics>
+  <dtStatistics>
+    <refNo>6632</refNo>
+    <packNo>2</packNo>
+    <key>EAB</key>
+    <methNo>4</methNo>
+    <method>TensileTest</method>
+    <nV>3</nV>
+    <X>20.67138</X>
+    <XClimit xml:space="preserve"> </XClimit>
+    <Xlimit xml:space="preserve"> </Xlimit>
+    <Min>20.28013</Min>
+    <Max>21.42744</Max>
+    <S>0.6548858</S>
+    <Slimit xml:space="preserve"> </Slimit>
+    <V>3.16808</V>
+    <Vlimit xml:space="preserve"> </Vlimit>
+    <Q>1.626958</Q>
+    <Qlimit xml:space="preserve"> </Qlimit>
+    <R>1.14731</R>
+    <Sum>62.0141410827637</Sum>
+    <Sum2>1282.77568833154</Sum2>
+    <grpIndex>6474</grpIndex>
+  </dtStatistics>
+  <dtStatistics>
+    <refNo>6632</refNo>
+    <packNo>2</packNo>
+    <key>FAB</key>
+    <methNo>4</methNo>
+    <method>TensileTest</method>
+    <nV>3</nV>
+    <X>1523.765</X>
+    <XClimit xml:space="preserve"> </XClimit>
+    <Xlimit xml:space="preserve"> </Xlimit>
+    <Min>1474.721</Min>
+    <Max>1566.371</Max>
+    <S>46.16194</S>
+    <Slimit xml:space="preserve"> </Slimit>
+    <V>3.029466</V>
+    <Vlimit xml:space="preserve"> </Vlimit>
+    <Q>114.6819</Q>
+    <Qlimit xml:space="preserve"> </Qlimit>
+    <R>91.65002</R>
+    <Sum>4571.294921875</Sum>
+    <Sum2>6969841.12339982</Sum2>
+    <grpIndex>6474</grpIndex>
+  </dtStatistics>
+  <dtStatistics>
+    <refNo>6632</refNo>
+    <packNo>2</packNo>
+    <key>WTB</key>
+    <methNo>4</methNo>
+    <method>TensileTest</method>
+    <nV>3</nV>
+    <X>8911.44</X>
+    <XClimit xml:space="preserve"> </XClimit>
+    <Xlimit xml:space="preserve"> </Xlimit>
+    <Min>8496.715</Min>
+    <Max>9408.281</Max>
+    <S>461.293</S>
+    <Slimit xml:space="preserve"> </Slimit>
+    <V>5.176414</V>
+    <Vlimit xml:space="preserve"> </Vlimit>
+    <Q>1146.008</Q>
+    <Qlimit xml:space="preserve"> </Qlimit>
+    <R>911.5664</R>
+    <Sum>26734.3203125</Sum>
+    <Sum2>238666885.374908</Sum2>
+    <grpIndex>6474</grpIndex>
+  </dtStatistics>
+  <dtStatistics>
+    <refNo>6632</refNo>
+    <packNo>2</packNo>
+    <key>TEN</key>
+    <methNo>4</methNo>
+    <method>TensileTest</method>
+    <nV>3</nV>
+    <X>25.20273</X>
+    <XClimit xml:space="preserve"> </XClimit>
+    <Xlimit xml:space="preserve"> </Xlimit>
+    <Min>24.39155</Min>
+    <Max>25.90742</Max>
+    <S>0.7635081</S>
+    <Slimit xml:space="preserve"> </Slimit>
+    <V>3.029466</V>
+    <Vlimit xml:space="preserve"> </Vlimit>
+    <Q>1.896812</Q>
+    <Qlimit xml:space="preserve"> </Qlimit>
+    <R>1.515869</R>
+    <Sum>75.6081829071045</Sum>
+    <Sum2>1906.69837814832</Sum2>
+    <grpIndex>6474</grpIndex>
+  </dtStatistics>
+  <dtStatistics>
+    <refNo>6632</refNo>
+    <packNo>2</packNo>
+    <key>TTB</key>
+    <methNo>4</methNo>
+    <method>TensileTest</method>
+    <nV>3</nV>
+    <X>3.082973</X>
+    <XClimit xml:space="preserve"> </XClimit>
+    <Xlimit xml:space="preserve"> </Xlimit>
+    <Min>3.025829</Min>
+    <Max>3.196245</Max>
+    <S>0.0980977</S>
+    <Slimit xml:space="preserve"> </Slimit>
+    <V>3.181919</V>
+    <Vlimit xml:space="preserve"> </Vlimit>
+    <Q>0.2437079</Q>
+    <Qlimit xml:space="preserve"> </Qlimit>
+    <R>0.1704159</R>
+    <Sum>9.24891901016235</Sum>
+    <Sum2>28.5334139374301</Sum2>
+    <grpIndex>6474</grpIndex>
+  </dtStatistics>
+  <dtStatistics>
+    <refNo>6632</refNo>
+    <packNo>2</packNo>
+    <key>TAB</key>
+    <methNo>4</methNo>
+    <method>TensileTest</method>
+    <nV>3</nV>
+    <X>2.964798</X>
+    <XClimit xml:space="preserve"> </XClimit>
+    <Xlimit xml:space="preserve"> </Xlimit>
+    <Min>2.828448</Min>
+    <Max>3.129618</Max>
+    <S>0.1525901</S>
+    <Slimit xml:space="preserve"> </Slimit>
+    <V>5.146727</V>
+    <Vlimit xml:space="preserve"> </Vlimit>
+    <Q>0.3790853</Q>
+    <Qlimit xml:space="preserve"> </Qlimit>
+    <R>0.3011699</R>
+    <Sum>8.89439392089844</Sum>
+    <Sum2>26.4166485340699</Sum2>
+    <grpIndex>6474</grpIndex>
+  </dtStatistics>
+  <dtStatistics>
+    <refNo>6632</refNo>
+    <packNo>3</packNo>
+    <key>LD</key>
+    <methNo>3</methNo>
+    <method>CountTest</method>
+    <nV>1</nV>
+    <X>61.51016</X>
+    <XClimit xml:space="preserve"> </XClimit>
+    <Xlimit xml:space="preserve"> </Xlimit>
+    <Min>61.51016</Min>
+    <Max>61.51016</Max>
+    <S>0</S>
+    <Slimit xml:space="preserve"> </Slimit>
+    <V>0</V>
+    <Vlimit xml:space="preserve"> </Vlimit>
+    <Q>0</Q>
+    <Qlimit xml:space="preserve"> </Qlimit>
+    <R>0</R>
+    <Sum>61.5101623535156</Sum>
+    <Sum2>3783.50007275585</Sum2>
+    <grpIndex>6474</grpIndex>
+  </dtStatistics>
+  <dtStatistics>
+    <refNo>6632</refNo>
+    <packNo>3</packNo>
+    <key>EAB</key>
+    <methNo>4</methNo>
+    <method>TensileTest</method>
+    <nV>3</nV>
+    <X>20.57069</X>
+    <XClimit xml:space="preserve"> </XClimit>
+    <Xlimit xml:space="preserve"> </Xlimit>
+    <Min>19.8642</Min>
+    <Max>21.46618</Max>
+    <S>0.8175415</S>
+    <Slimit xml:space="preserve"> </Slimit>
+    <V>3.974302</V>
+    <Vlimit xml:space="preserve"> </Vlimit>
+    <Q>2.031049</Q>
+    <Qlimit xml:space="preserve"> </Qlimit>
+    <R>1.60198</R>
+    <Sum>61.7120819091797</Sum>
+    <Sum2>1270.79709927248</Sum2>
+    <grpIndex>6474</grpIndex>
+  </dtStatistics>
+  <dtStatistics>
+    <refNo>6632</refNo>
+    <packNo>3</packNo>
+    <key>FAB</key>
+    <methNo>4</methNo>
+    <method>TensileTest</method>
+    <nV>3</nV>
+    <X>1600.582</X>
+    <XClimit xml:space="preserve"> </XClimit>
+    <Xlimit xml:space="preserve"> </Xlimit>
+    <Min>1539.861</Min>
+    <Max>1676.388</Max>
+    <S>69.50172</S>
+    <Slimit xml:space="preserve"> </Slimit>
+    <V>4.342278</V>
+    <Vlimit xml:space="preserve"> </Vlimit>
+    <Q>172.6658</Q>
+    <Qlimit xml:space="preserve"> </Qlimit>
+    <R>136.527</R>
+    <Sum>4801.74487304688</Sum>
+    <Sum2>7695245.78178331</Sum2>
+    <grpIndex>6474</grpIndex>
+  </dtStatistics>
+  <dtStatistics>
+    <refNo>6632</refNo>
+    <packNo>3</packNo>
+    <key>WTB</key>
+    <methNo>4</methNo>
+    <method>TensileTest</method>
+    <nV>3</nV>
+    <X>9327.907</X>
+    <XClimit xml:space="preserve"> </XClimit>
+    <Xlimit xml:space="preserve"> </Xlimit>
+    <Min>8740.282</Min>
+    <Max>10064.58</Max>
+    <S>674.6162</S>
+    <Slimit xml:space="preserve"> </Slimit>
+    <V>7.232235</V>
+    <Vlimit xml:space="preserve"> </Vlimit>
+    <Q>1675.975</Q>
+    <Qlimit xml:space="preserve"> </Qlimit>
+    <R>1324.298</R>
+    <Sum>27983.72265625</Sum>
+    <Sum2>261939782.902441</Sum2>
+    <grpIndex>6474</grpIndex>
+  </dtStatistics>
+  <dtStatistics>
+    <refNo>6632</refNo>
+    <packNo>3</packNo>
+    <key>TEN</key>
+    <methNo>4</methNo>
+    <method>TensileTest</method>
+    <nV>3</nV>
+    <X>26.02142</X>
+    <XClimit xml:space="preserve"> </XClimit>
+    <Xlimit xml:space="preserve"> </Xlimit>
+    <Min>25.03425</Min>
+    <Max>27.25384</Max>
+    <S>1.129938</S>
+    <Slimit xml:space="preserve"> </Slimit>
+    <V>4.342338</V>
+    <Vlimit xml:space="preserve"> </Vlimit>
+    <Q>2.807148</Q>
+    <Qlimit xml:space="preserve"> </Qlimit>
+    <R>2.219591</R>
+    <Sum>78.0642471313477</Sum>
+    <Sum2>2033.89574521431</Sum2>
+    <grpIndex>6474</grpIndex>
+  </dtStatistics>
+  <dtStatistics>
+    <refNo>6632</refNo>
+    <packNo>3</packNo>
+    <key>TTB</key>
+    <methNo>4</methNo>
+    <method>TensileTest</method>
+    <nV>3</nV>
+    <X>3.070274</X>
+    <XClimit xml:space="preserve"> </XClimit>
+    <Xlimit xml:space="preserve"> </Xlimit>
+    <Min>2.963471</Min>
+    <Max>3.205421</Max>
+    <S>0.1234417</S>
+    <Slimit xml:space="preserve"> </Slimit>
+    <V>4.020544</V>
+    <Vlimit xml:space="preserve"> </Vlimit>
+    <Q>0.306671</Q>
+    <Qlimit xml:space="preserve"> </Qlimit>
+    <R>0.24195</R>
+    <Sum>9.21082186698914</Sum>
+    <Sum2>28.3102214713236</Sum2>
+    <grpIndex>6474</grpIndex>
+  </dtStatistics>
+  <dtStatistics>
+    <refNo>6632</refNo>
+    <packNo>3</packNo>
+    <key>TAB</key>
+    <methNo>4</methNo>
+    <method>TensileTest</method>
+    <nV>3</nV>
+    <X>3.048078</X>
+    <XClimit xml:space="preserve"> </XClimit>
+    <Xlimit xml:space="preserve"> </Xlimit>
+    <Min>2.857395</Min>
+    <Max>3.287303</Max>
+    <S>0.2190268</S>
+    <Slimit xml:space="preserve"> </Slimit>
+    <V>7.185734</V>
+    <Vlimit xml:space="preserve"> </Vlimit>
+    <Q>0.5441366</Q>
+    <Qlimit xml:space="preserve"> </Qlimit>
+    <R>0.4299078</R>
+    <Sum>9.14423513412476</Sum>
+    <Sum2>27.9682901531407</Sum2>
+    <grpIndex>6474</grpIndex>
+  </dtStatistics>
+  <dtStatistics>
+    <refNo>6632</refNo>
+    <packNo>4</packNo>
+    <key>LD</key>
+    <methNo>3</methNo>
+    <method>CountTest</method>
+    <nV>1</nV>
+    <X>60.17015</X>
+    <XClimit xml:space="preserve"> </XClimit>
+    <Xlimit xml:space="preserve"> </Xlimit>
+    <Min>60.17015</Min>
+    <Max>60.17015</Max>
+    <S>0</S>
+    <Slimit xml:space="preserve"> </Slimit>
+    <V>0</V>
+    <Vlimit xml:space="preserve"> </Vlimit>
+    <Q>0</Q>
+    <Qlimit xml:space="preserve"> </Qlimit>
+    <R>0</R>
+    <Sum>60.1701469421387</Sum>
+    <Sum2>3620.44658303856</Sum2>
+    <grpIndex>6474</grpIndex>
+  </dtStatistics>
+  <dtStatistics>
+    <refNo>6632</refNo>
+    <packNo>4</packNo>
+    <key>EAB</key>
+    <methNo>4</methNo>
+    <method>TensileTest</method>
+    <nV>3</nV>
+    <X>20.90528</X>
+    <XClimit xml:space="preserve"> </XClimit>
+    <Xlimit xml:space="preserve"> </Xlimit>
+    <Min>20.18796</Min>
+    <Max>21.65064</Max>
+    <S>0.73173</S>
+    <Slimit xml:space="preserve"> </Slimit>
+    <V>3.500217</V>
+    <Vlimit xml:space="preserve"> </Vlimit>
+    <Q>1.817865</Q>
+    <Qlimit xml:space="preserve"> </Qlimit>
+    <R>1.462681</R>
+    <Sum>62.7158298492432</Sum>
+    <Sum2>1312.16266875718</Sum2>
+    <grpIndex>6474</grpIndex>
+  </dtStatistics>
+  <dtStatistics>
+    <refNo>6632</refNo>
+    <packNo>4</packNo>
+    <key>FAB</key>
+    <methNo>4</methNo>
+    <method>TensileTest</method>
+    <nV>3</nV>
+    <X>1504.956</X>
+    <XClimit xml:space="preserve"> </XClimit>
+    <Xlimit xml:space="preserve"> </Xlimit>
+    <Min>1424.352</Min>
+    <Max>1632.836</Max>
+    <S>111.9943</S>
+    <Slimit xml:space="preserve"> </Slimit>
+    <V>7.441698</V>
+    <Vlimit xml:space="preserve"> </Vlimit>
+    <Q>278.2316</Q>
+    <Qlimit xml:space="preserve"> </Qlimit>
+    <R>208.484</R>
+    <Sum>4514.86706542969</Sum>
+    <Sum2>6819760.29807551</Sum2>
+    <grpIndex>6474</grpIndex>
+  </dtStatistics>
+  <dtStatistics>
+    <refNo>6632</refNo>
+    <packNo>4</packNo>
+    <key>WTB</key>
+    <methNo>4</methNo>
+    <method>TensileTest</method>
+    <nV>3</nV>
+    <X>8877.728</X>
+    <XClimit xml:space="preserve"> </XClimit>
+    <Xlimit xml:space="preserve"> </Xlimit>
+    <Min>8192.535</Min>
+    <Max>9846.243</Max>
+    <S>862.4891</S>
+    <Slimit xml:space="preserve"> </Slimit>
+    <V>9.715201</V>
+    <Vlimit xml:space="preserve"> </Vlimit>
+    <Q>2142.715</Q>
+    <Qlimit xml:space="preserve"> </Qlimit>
+    <R>1653.708</R>
+    <Sum>26633.181640625</Sum>
+    <Sum2>237929905.164438</Sum2>
+    <grpIndex>6474</grpIndex>
+  </dtStatistics>
+  <dtStatistics>
+    <refNo>6632</refNo>
+    <packNo>4</packNo>
+    <key>TEN</key>
+    <methNo>4</methNo>
+    <method>TensileTest</method>
+    <nV>3</nV>
+    <X>25.01167</X>
+    <XClimit xml:space="preserve"> </XClimit>
+    <Xlimit xml:space="preserve"> </Xlimit>
+    <Min>23.67207</Min>
+    <Max>27.13698</Max>
+    <S>1.861299</S>
+    <Slimit xml:space="preserve"> </Slimit>
+    <V>7.441723</V>
+    <Vlimit xml:space="preserve"> </Vlimit>
+    <Q>4.624096</Q>
+    <Qlimit xml:space="preserve"> </Qlimit>
+    <R>3.464909</R>
+    <Sum>75.0349979400635</Sum>
+    <Sum2>1883.67912492472</Sum2>
+    <grpIndex>6474</grpIndex>
+  </dtStatistics>
+  <dtStatistics>
+    <refNo>6632</refNo>
+    <packNo>4</packNo>
+    <key>TTB</key>
+    <methNo>4</methNo>
+    <method>TensileTest</method>
+    <nV>3</nV>
+    <X>3.118823</X>
+    <XClimit xml:space="preserve"> </XClimit>
+    <Xlimit xml:space="preserve"> </Xlimit>
+    <Min>3.011742</Min>
+    <Max>3.229438</Max>
+    <S>0.108891</S>
+    <Slimit xml:space="preserve"> </Slimit>
+    <V>3.491413</V>
+    <Vlimit xml:space="preserve"> </Vlimit>
+    <Q>0.2705221</Q>
+    <Qlimit xml:space="preserve"> </Qlimit>
+    <R>0.217696</R>
+    <Sum>9.35646915435791</Sum>
+    <Sum2>29.2048861770257</Sum2>
+    <grpIndex>6474</grpIndex>
+  </dtStatistics>
+  <dtStatistics>
+    <refNo>6632</refNo>
+    <packNo>4</packNo>
+    <key>TAB</key>
+    <methNo>4</methNo>
+    <method>TensileTest</method>
+    <nV>3</nV>
+    <X>2.966947</X>
+    <XClimit xml:space="preserve"> </XClimit>
+    <Xlimit xml:space="preserve"> </Xlimit>
+    <Min>2.737998</Min>
+    <Max>3.291202</Max>
+    <S>0.2886536</S>
+    <Slimit xml:space="preserve"> </Slimit>
+    <V>9.728977</V>
+    <Vlimit xml:space="preserve"> </Vlimit>
+    <Q>0.7171133</Q>
+    <Qlimit xml:space="preserve"> </Qlimit>
+    <R>0.5532038</R>
+    <Sum>8.90084195137024</Sum>
+    <Sum2>26.5749710046189</Sum2>
+    <grpIndex>6474</grpIndex>
+  </dtStatistics>
+  <dtStatistics>
+    <refNo>6632</refNo>
+    <packNo>5</packNo>
+    <key>LD</key>
+    <methNo>3</methNo>
+    <method>CountTest</method>
+    <nV>1</nV>
+    <X>60.85032</X>
+    <XClimit xml:space="preserve"> </XClimit>
+    <Xlimit xml:space="preserve"> </Xlimit>
+    <Min>60.85032</Min>
+    <Max>60.85032</Max>
+    <S>0</S>
+    <Slimit xml:space="preserve"> </Slimit>
+    <V>0</V>
+    <Vlimit xml:space="preserve"> </Vlimit>
+    <Q>0</Q>
+    <Qlimit xml:space="preserve"> </Qlimit>
+    <R>0</R>
+    <Sum>60.8503189086914</Sum>
+    <Sum2>3702.76131128945</Sum2>
+    <grpIndex>6474</grpIndex>
+  </dtStatistics>
+  <dtStatistics>
+    <refNo>6632</refNo>
+    <packNo>5</packNo>
+    <key>EAB</key>
+    <methNo>4</methNo>
+    <method>TensileTest</method>
+    <nV>3</nV>
+    <X>20.84984</X>
+    <XClimit xml:space="preserve"> </XClimit>
+    <Xlimit xml:space="preserve"> </Xlimit>
+    <Min>20.53291</Min>
+    <Max>21.01744</Max>
+    <S>0.2746221</S>
+    <Slimit xml:space="preserve"> </Slimit>
+    <V>1.317142</V>
+    <Vlimit xml:space="preserve"> </Vlimit>
+    <Q>0.6822541</Q>
+    <Qlimit xml:space="preserve"> </Qlimit>
+    <R>0.4845314</R>
+    <Sum>62.5495204925537</Sum>
+    <Sum2>1304.29833919187</Sum2>
+    <grpIndex>6474</grpIndex>
+  </dtStatistics>
+  <dtStatistics>
+    <refNo>6632</refNo>
+    <packNo>5</packNo>
+    <key>FAB</key>
+    <methNo>4</methNo>
+    <method>TensileTest</method>
+    <nV>3</nV>
+    <X>1524.523</X>
+    <XClimit xml:space="preserve"> </XClimit>
+    <Xlimit xml:space="preserve"> </Xlimit>
+    <Min>1506.912</Min>
+    <Max>1551.98</Max>
+    <S>24.0916</S>
+    <Slimit xml:space="preserve"> </Slimit>
+    <V>1.580272</V>
+    <Vlimit xml:space="preserve"> </Vlimit>
+    <Q>59.85168</Q>
+    <Qlimit xml:space="preserve"> </Qlimit>
+    <R>45.06799</R>
+    <Sum>4573.56799316406</Sum>
+    <Sum2>6973669.05915149</Sum2>
+    <grpIndex>6474</grpIndex>
+  </dtStatistics>
+  <dtStatistics>
+    <refNo>6632</refNo>
+    <packNo>5</packNo>
+    <key>WTB</key>
+    <methNo>4</methNo>
+    <method>TensileTest</method>
+    <nV>3</nV>
+    <X>8980.635</X>
+    <XClimit xml:space="preserve"> </XClimit>
+    <Xlimit xml:space="preserve"> </Xlimit>
+    <Min>8771.667</Min>
+    <Max>9204.904</Max>
+    <S>217.0236</S>
+    <Slimit xml:space="preserve"> </Slimit>
+    <V>2.416573</V>
+    <Vlimit xml:space="preserve"> </Vlimit>
+    <Q>539.16</Q>
+    <Qlimit xml:space="preserve"> </Qlimit>
+    <R>433.2373</R>
+    <Sum>26941.904296875</Sum>
+    <Sum2>242049600.877432</Sum2>
+    <grpIndex>6474</grpIndex>
+  </dtStatistics>
+  <dtStatistics>
+    <refNo>6632</refNo>
+    <packNo>5</packNo>
+    <key>TEN</key>
+    <methNo>4</methNo>
+    <method>TensileTest</method>
+    <nV>3</nV>
+    <X>25.05365</X>
+    <XClimit xml:space="preserve"> </XClimit>
+    <Xlimit xml:space="preserve"> </Xlimit>
+    <Min>24.76424</Min>
+    <Max>25.50488</Max>
+    <S>0.395949</S>
+    <Slimit xml:space="preserve"> </Slimit>
+    <V>1.580404</V>
+    <Vlimit xml:space="preserve"> </Vlimit>
+    <Q>0.9836712</Q>
+    <Qlimit xml:space="preserve"> </Qlimit>
+    <R>0.7406387</R>
+    <Sum>75.1609497070313</Sum>
+    <Sum2>1883.36967145946</Sum2>
+    <grpIndex>6474</grpIndex>
+  </dtStatistics>
+  <dtStatistics>
+    <refNo>6632</refNo>
+    <packNo>5</packNo>
+    <key>TTB</key>
+    <methNo>4</methNo>
+    <method>TensileTest</method>
+    <nV>3</nV>
+    <X>3.112522</X>
+    <XClimit xml:space="preserve"> </XClimit>
+    <Xlimit xml:space="preserve"> </Xlimit>
+    <Min>3.066988</Min>
+    <Max>3.136725</Max>
+    <S>0.03945946</S>
+    <Slimit xml:space="preserve"> </Slimit>
+    <V>1.267765</V>
+    <Vlimit xml:space="preserve"> </Vlimit>
+    <Q>0.09803064</Q>
+    <Qlimit xml:space="preserve"> </Qlimit>
+    <R>0.06973696</R>
+    <Sum>9.33756494522095</Sum>
+    <Sum2>29.0664871331994</Sum2>
+    <grpIndex>6474</grpIndex>
+  </dtStatistics>
+  <dtStatistics>
+    <refNo>6632</refNo>
+    <packNo>5</packNo>
+    <key>TAB</key>
+    <methNo>4</methNo>
+    <method>TensileTest</method>
+    <nV>3</nV>
+    <X>2.965901</X>
+    <XClimit xml:space="preserve"> </XClimit>
+    <Xlimit xml:space="preserve"> </Xlimit>
+    <Min>2.895203</Min>
+    <Max>3.040751</Max>
+    <S>0.07286038</S>
+    <Slimit xml:space="preserve"> </Slimit>
+    <V>2.456601</V>
+    <Vlimit xml:space="preserve"> </Vlimit>
+    <Q>0.1810098</Q>
+    <Qlimit xml:space="preserve"> </Qlimit>
+    <R>0.1455481</R>
+    <Sum>8.8977038860321</Sum>
+    <Sum2>26.4003294561392</Sum2>
+    <grpIndex>6474</grpIndex>
+  </dtStatistics>
+</dataSetGroup>

@@ -28,14 +28,27 @@ class GrStatExport:
         if type(dt_group) is ET.Element:
 
             for key in self._import:
+                logging.debug("looking for key %s in %s", key, dt_group)
+                logging.debug(dt_group.find(key))
+                if type(dt_group.find(key)) is ET.Element:
+                    logging.error(
+                        "%s already present in %s",
+                        key,
+                        GrStatExport.ADD_TO_TAG,
+                    )
+                    raise ValueError(
+                        "%s already present in %s"
+                        % (key, GrStatExport.ADD_TO_TAG)
+                    )
                 new_element = ET.Element(key)
                 new_element.text = self._import[key]
                 dt_group.append(new_element)
             ET.indent(tree, space="  ", level=0)
             tree.write(self._export_path)
         else:
-            logging.error(
-                "%s is lacking a %s field",
+            error_message = "%s is lacking a %s field" % (
                 self._export_path,
                 GrStatExport.ADD_TO_TAG,
             )
+            logging.error(error_message)
+            raise ValueError(error_message)

@@ -2,9 +2,11 @@ GrStat
 Statimat
 dirname
 dt
+dtGroup
 etree
 getitem
 getroot
 linesep
 nonlocal
 sattler
+mktemp

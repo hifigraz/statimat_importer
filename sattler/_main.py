@@ -59,7 +59,15 @@ def main():
         exit(4)
 
     importer: sattler.GrStatImport = sattler.GrStatImport(input_file)
-    importer.read()
+    try:
+        importer.read()
+    except Exception as e:
+        logging.error("Exception during read %s", e)
+        exit(5)
 
     exporter = sattler.GrStatExport(importer, output_file)
-    exporter.update()
+    try:
+        exporter.update()
+    except Exception as e:
+        logging.error("Exception durring write %s", e)
+        exit(6)
