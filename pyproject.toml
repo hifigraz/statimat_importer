@@ -8,7 +8,9 @@ readme = "README.md"
 packages = [ {include = "sattler"} ]
 
 [tool.poetry.dependencies]
-python = ">=3.11,<3.13"
+python = ">=3.11,<3.12"
+py2exe = "^0.13.0.1"
+pyinstaller = "^6.4.0"
 
 [tool.poetry.scripts]
 statimat_input = 'sattler:main'
@@ -20,7 +22,6 @@ flake8-docstrings = "^1.7.0"
 flake8-spellcheck = "^0.28.0"
 isort = "^5.13.2"
 pytest = "^8.0.0"
-auto-py-to-exe = "^2.42.0"
 
 [build-system]
 requires = ["poetry-core"]
