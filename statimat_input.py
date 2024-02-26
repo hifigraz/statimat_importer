@@ -1,0 +1,3 @@
+import sattler
+
+sattler.main()

@@ -2,7 +2,7 @@
 
 import logging
 import os
-from sys import argv
+import sys
 
 import sattler
 
@@ -21,15 +21,15 @@ def main():
     output_file: str | None = None
 
     def _usage():
-        print(USAGE_TEXT % os.path.basename(argv[0]))
+        print(USAGE_TEXT % os.path.basename(sys.argv[0]))
 
     def _parse():
         nonlocal input_file
         nonlocal output_file
-        for arg in argv[1:]:
+        for arg in sys.argv[1:]:
             if arg == "-h":
                 _usage()
-                exit(0)
+                sys.exit(0)
             if arg == "-v":
                 logging.getLogger().setLevel(logging.DEBUG)
                 logging.debug("Debugging enabled")
@@ -40,11 +40,11 @@ def main():
             else:
                 logging.error("Too much parameters!")
                 _usage()
-                exit(1)
+                sys.exit(1)
         if output_file is None:
             logging.error("Too view parameters!")
             _usage()
-            exit(2)
+            sys.exit(2)
 
     _parse()
 
@@ -53,21 +53,21 @@ def main():
 
     if not os.path.exists(input_file):
         logging.error("%s does not exist.", input_file)
-        exit(3)
+        sys.exit(3)
     if not os.path.exists(output_file):
         logging.error("%s does not exist.", output_file)
-        exit(4)
+        sys.exit(4)
 
     importer: sattler.GrStatImport = sattler.GrStatImport(input_file)
     try:
         importer.read()
     except Exception as e:
         logging.error("Exception during read %s", e)
-        exit(5)
+        sys.exit(5)
 
     exporter = sattler.GrStatExport(importer, output_file)
     try:
         exporter.update()
     except Exception as e:
         logging.error("Exception durring write %s", e)
-        exit(6)
+        sys.exit(6)
